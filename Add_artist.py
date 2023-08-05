@@ -2,8 +2,8 @@ import os
 import eyed3
 
 # Replace these with your actual values
-folder_path = r"C:\Users\Shady Emad\Desktop\Music\cairokee"
-artist_name = "Cairokee"
+folder_path = "path_to_your_folder"
+artist_name = "Your Artist Name"
 
 # Function to set the artist name for all MP3 files in the folder
 def set_artist_name_in_folder(folder_path, artist_name):
